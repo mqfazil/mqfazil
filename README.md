@@ -8,7 +8,6 @@ Hey, my name is Murid.<br>I'm based in the United States of America.<br>I’m cu
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mqfazil&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mqfazil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
