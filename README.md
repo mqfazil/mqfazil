@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, my name is Murid.<br>I'm based in the United States of America.<br>I’m currently studying Computer Science at Farmingdale State College.<br>I love technology and have already done some programming courses such as Java and Python. <br>I want to learn more so I can use what I know to solve real problems. <br>My goal is to become a software engineer who makes things to help people and their communities.
-
+Hey, my name is Murid.<br>I'm based in the United States of America.<br>I’m currently studying Computer Science at Farmingdale State College.<br>I love technology and have already done some programming courses such as Java and Python. <br>I want to learn more so I can use what I know to solve real problems. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mquorishi) 
